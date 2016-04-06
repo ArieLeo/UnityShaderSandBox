@@ -6,3 +6,4 @@ bin/
 Temp/
 *.csproj
 *.sln
+ShaderSandBox/Assets/TestAssets/
